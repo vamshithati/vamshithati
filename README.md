@@ -1,18 +1,68 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN stack projects<br>
+# 👋 Hi, I'm Vamshi Krishna Thati
 
+🚀 **Software Engineer | Full-Stack & Backend | Cloud-Native Systems**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamshi_thati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thati-vamshi-krishna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshixthati) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vamshithati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vamshithati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshithati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a Software Engineer with hands-on experience building **scalable, cloud-native applications** using **Java, Spring Boot, and modern JavaScript frameworks**. I enjoy designing **resilient microservices**, improving **system performance**, and automating **CI/CD pipelines** to ship reliable software faster.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamshithati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 What I Do
+- Build **microservices-based architectures** using **Spring Boot**, REST, and GraphQL  
+- Develop **full-stack applications** with **React / Next.js**  
+- Design **event-driven systems** using **Kafka** and **RabbitMQ**  
+- Deploy and manage applications on **AWS** with **Docker & Kubernetes**  
+- Automate testing and deployments with **GitHub Actions** and **Jenkins**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Java (8+), JavaScript, TypeScript, Python  
+
+**Backend:**  
+Spring Boot, Spring MVC, Node.js, REST APIs, GraphQL, OAuth2, JWT, Kafka, RabbitMQ  
+
+**Frontend:**  
+React.js, Next.js, Angular, Redux, Tailwind CSS, HTML, CSS  
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB, Cassandra, DynamoDB  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS, Lambda, EKS, ECS, ELB, CloudWatch), Docker, Kubernetes, CI/CD  
+
+**Testing:**  
+JUnit, Mockito, Selenium, Cucumber, Unit & Integration Testing  
+
+---
+
+## 📌 Experience Highlights
+- Reduced release turnaround time by **40%** by automating CI/CD pipelines  
+- Improved application performance and scalability using **event-driven architectures**  
+- Built and optimized APIs to support high-traffic frontend applications  
+- Increased test coverage and release reliability through **BDD automation**
+
+---
+
+## 🎓 Education & Certification
+- **M.S. in Information Technology and Management** — Illinois Institute of Technology  
+- **B.Tech in Computer Science and Engineering**  
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## 🌱 Currently Exploring
+- Advanced system design & distributed systems  
+- Cloud cost optimization and performance tuning  
+- Scalable backend patterns and architecture best practices  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com)
+- 📧 Email: vamshixthati@gmail.com
+- 📍 Chicago, IL
+
+---
+
+⭐ *I love building reliable software, learning new technologies, and collaborating on impactful projects.*
