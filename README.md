@@ -46,7 +46,7 @@ JUnit, Mockito, Selenium, Cucumber, Unit & Integration Testing
 
 ## 🎓 Education & Certification
 - **M.S. in Information Technology and Management** — Illinois Institute of Technology  
-- **B.Tech in Computer Science and Engineering**  
+- **B.Tech in Computer Science and Engineering**   — 
 - **AWS Certified Cloud Practitioner**
 
 ---
